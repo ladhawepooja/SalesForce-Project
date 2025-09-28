@@ -21,3 +21,5 @@ NGOs accept/decline donations via portal.
 Admins monitor and manage the process.
 
 Impact: Reduces food waste, ensures timely donation, and improves coordination between donors and NGOs.
+
+Demo Video Link [https://drive.google.com/file/d/1VutN94mUYnlVcd2fu2Z0X0XBSolOWVFV/view?usp=sharing]
